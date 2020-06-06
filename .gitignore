@@ -1,6 +1,4 @@
 *.log
 *.lock
-dist/*
-\!dist/'Heron Animation (beta) Setup 2.0.0.exe'
-\!dist/'Heron Animation (beta)-2.0.0.AppImage'
+dist
 node_modules
